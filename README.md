@@ -1,4 +1,4 @@
-# React Components Basics Lab
+# React Components Basics Lab c
 
 ## Learning Goals
 
